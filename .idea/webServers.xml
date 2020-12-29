@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="31f0c323-1c0f-4dbf-96d5-547171caf42a" name="druza" url="http://druza-uk.ru">
+        <fileTransfer host="ftp.druza-uk.ru" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="a860cf74-65ce-43a2-895b-af0a732b3522" name="maksim_key" url="http://MENSA.LITE-HOST.IN">
+        <fileTransfer host="MENSA.LITE-HOST.IN" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
